@@ -1,0 +1,8 @@
+
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./chatBot.py:agent"
+  },
+  "env": ".env"
+}

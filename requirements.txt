@@ -1,0 +1,11 @@
+
+python-dotenv
+fastapi
+uvicorn[standard]
+langserve[server]
+langchain
+langchain-core
+langchain-groq
+langchain-keenable
+pydantic
+sse-starlette
