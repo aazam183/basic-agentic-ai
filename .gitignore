@@ -5,3 +5,7 @@ venv/
 .venv/
 .env
 .env.*
+
+langgraph_api/
+.langgraph_api/
+*.pkl
